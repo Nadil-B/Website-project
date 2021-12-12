@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<head><title>The Future Of The British Military</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/logo.jpg" alt="British Military- A mordern Overview Of The British Army And Their History" title="British Military- A Mordern Overview Of The British Army And Their History">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="Our Military Today.html">Our Military Today</a></td>
+<td><a href="Global Firepower Index.html">Gobal Firepower Index</a></td>
+<td><a href="British Military History.html">British Military History</a></td>
+<td><a href="Current and New British Military Equipment.html">Current And New British Military Equipment</a></td>
+<td><a href="The future Of The british Military.html">The Future Of The British Military</a></td>
+</tr>
+</nav>
+</table>
+<hr>
+
+<center>
+<h3>Login Here</h3>
+
+<form action="https://www.army.mod.uk/news-and-events/events/future-soldier/" method="post"
+<table>
+<tr>
+
+<td>Username:</td>
+<td>
+<input type="text" name="user">
+</td>
+</tr>
+
+
+<tr>
+<td>Password:</td>
+<td>
+<input type="password" name="user_pass">
+</td>
+</tr>
+
+<tr>
+
+<td>
+<input type="submit" name="submit"
+value="login" href="https://www.army.mod.uk/news-and-events/events/future-soldier/">
+
+</td>
+
+</tr>
+
+</table>
+
+</center> 
+
+<p>This login page will take you to the British Army Website. On that website it will detail how the British Armed Forces are modernising in the coming years
+as well as all the new equipment and gear that they are brining to the field to make them an even more lethal force.</p>
+
+
+
+
+
+
+
+<hr>
+<footer>
+Coppyright &copy; British Military.org 2021
+</footer>
+</hr>
+
+
+</body>

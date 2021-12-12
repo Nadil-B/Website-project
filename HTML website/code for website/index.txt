@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head><title>British Military - A Mordern Overview Of The British Army And Their History</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/logo.jpg" alt="British Military- A mordern Overview Of The British Army And Their History" title="British Military- A Mordern Overview Of The British Army And Their History">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="Our Military Today.html">Our Military Today</a></td>
+<td><a href="Global Firepower Index.html">Gobal Firepower Index</a></td>
+<td><a href="British Military History.html">British Military History</a></td>
+<td><a href="Current and New British Military Equipment.html">Current And New British Military Equipment</a></td>
+<td><a href="The future Of The british Military.html">The Future Of The British Military</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+
+<h2> So much they do, yet so little they owe</h2>
+<p>
+The British armed forces comprise of the army, navy and air force. It is these brave men and women who risk thier lives for the safety and 
+security of they chose to represent and the country they chose to serve. Our armed forces have played an important roll through out the history
+of the world. We owe a lot to our soldiers, sailers and pilots and it's because of them that we can enjoy our very way of life without it being 
+destroyed.
+</p>
+<p>
+"Heroisim Doesn't always happen In a Burst of Glory.
+Sometimes Small Triamphs And Large Hearts Change the
+Course of History." -Mary Roach
+</P>
+
+<img src="img/Home page.jpg" width="40%" height="30%" title="Armed Forces Day Perade 2018">
+<img src="img/Home page 2.jpg" width="39.4%" height="40%" style="float right" title="Royal armoured Core">
+<p>
+There are 5 points that the British armed forces rely on in order to be an effective fighting force. These include:
+</p>
+<ul>
+<li>Firepower- The British armed forces are some of the most equiped fighting forces in the world.</li>
+<li>Inteligence- Certain branches of the armed forces work closely with MI5 and MI6.</li>
+<li>Allies- The United Kingdom has various allies across the globe from the United States to NATO.</li>
+<li>Logistics- Without setting up any form of logistics, your army can only do little without sufficent resources.</li>
+<li>Training- The British armed forces are considered an elite fighting force with some units receving Special Forces level traning.</li>
+</ul>
+<p><strong>"Leaders under pressure must keep themselves clean morally.
+The relativism of the social sciens will never do.
+They must lead by example, must be able to implant high-mindness to their followers,
+and must have earned their followers' respect by demonstrating integrity."- Vice Admiral James B. Stockdale 1987</Strong></p>
+<hr>
+<footer>
+<a href="https://www.youtube.com/channel/UCUFdrH02-ueNtM_h7Dr03Xw">
+<img src="img/Home page 4.jpg" width="20%" height="20%" title="British Army Youtube link"><a/><br />
+Coppyright &copy; British Military.org 2021
+</footer>
+
+
+</body>

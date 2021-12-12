@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<head><title>Our Military Today</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/logo.jpg" alt="British Military- A mordern Overview Of The British Army And Their History" title="British Military- A Mordern Overview Of The British Army And Their History">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="Our Military Today.html">Our Military Today</a></td>
+<td><a href="Global Firepower Index.html">Gobal Firepower Index</a></td>
+<td><a href="British Military History.html">British Military History</a></td>
+<td><a href="Current and New British Military Equipment.html">Current And New British Military Equipment</a></td>
+<td><a href="The future Of The british Military.html">The Future Of The British Military</a></td>
+</tr>
+</nav>
+</table>
+<hr>
+
+<h2>Our Military Today</h2>
+
+<table>
+<tr>
+<td bgcolor="Red" align="center">
+<header>
+<a href="https://www.youtube.com/watch?v=zHwPs-t4n-c">
+<h3>What regions around the world are British armed forces involved in?</h3>
+</a>
+</header>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Global war on terror (2001-presant day)-</strong>Britian along with many other nations around the globe
+are enganged in a military, political, economic and diplomatic efforts which are all about combating the Islamic 
+Millitancy in Afghanistan and elsewhere. Virtually all British military engagments during the 21st century are 
+primarly focused on groups such as al-Qaida, The Taliban, ISIS, Boko Haram, al-Shabaab along with other similar 
+groups within the Middle East. There were two major wars against existing goverments involving Saddam Hussein's 
+Iraq (2003-2009) and Muammar Khadaffi's Libya (2011) are some what related to an anti-terror campaign, but are seen
+as seperate conflicts.</p>
+<img src="img/Our Military Today.jpg" width="40%" height="40%" title="British forces in Iraq">
+<p><strong>Afganistan war (2001-2021)-</strong>The UK along with many allies such as the United States all joined forces
+in an attempt to oust the Taliban as well as al-Qaida from power as a direct consequence of their involvement with the
+September 11th attacks. Recently the United States announced that they were starting to pull out of the country prompting
+Britian and its allies to do the same as they could not hold the country on their own without United States support. As a
+result of this, the Taliban manged to sweep through the country with relative ease prompting Nato forces to set up a 
+checkpoint at Kabul airport guraded by Nato forces. Goverments around the world used military and civilian aircraft to evacuate
+civilian and goverment personel as well as Afghan nationals who worked for Western goverments in an attempt to bring them to safety.
+Despite Britian declearing combat missions ended in 2014 the conflict as a whole ended on the 30th of August 2021 bringing an end today
+the decade long conflict. 
+A total of 454 British personel lots thier lives during their service in Afganistan.</p>
+<img src="img/Our Military Today 2.jpg" width="40%" height="40%" title="British forces in Afganistan">
+<p><strong>Islamic State war (2014-presant day)-</strong>As a result of the recent threats posed by the Islamic State 
+(in Iraq, Syria and other locations), the British parliment voted on September 26 2014 that the RAF can conduct airsrtrikes
+by The Royal Air Force on Islamic State targets (AKA, ISIL or ISIS) in northen Iraq by the request of the Iraqi goverment.
+RAF airstrikes on ISIS in Syria began after the 2nd of December 2 2015 as a result of parliments' vote to begin operations
+within the country. The operational codename for the operation is 'Operation Shader' which is to contain and eleminate the
+spread of ISIS heald territory in Iraq and Syria. British allies involved with this on going conflict are the United States,
+France and multiple other coilition forces.</P>
+<img src="img/Our Military Today 3.jpg" width="40%" height="40%" title="RAF Typhoons awaiting takeoff">
+<p><strong>Mali war (2019-2020)-</strong>British armed forces were deployed to Mali to assit the UN mission that involved 
+fighting the Jihadi rebels. The Mali War itself began in 2012 with a Jihadi/Taureg rebellion against the goverment. France
+has nearly 5000 troops in Mali and the British SAS currently has a small force in-country, with another 250 long-range recon
+troops also deployed in the country. RAF Chinook helicopters were deployed in Mali to provide airlift services for French army
+troops as they developy across the country to engage with Jihadi rebels.</p>
+<img src="img/Our Military Today 4.jpg" width="40%" height="40%" title="SAS troops in Mali">
+<p><strong>Persian Gulf Crisis (2019-2020)-</strong>Through out those years, there were tensions with the Islamic Repuplic of
+Iran and their Iraqi Shiite militia allies between the United States and the United Kingdom. Multiple rockets fired by the Shiite
+militas on military bases used by allied forces (in the fight against ISIS). As a direct consequence of the rocket attacks there was
+one British casualty in March 2020.</p>
+<img src="img/Our Military Today 5.jpg" width="40%" height="40%" title="British forces in Iraq"> 
+
+<p><strong>Other operational deployments</strong> According to the British Minestry Of Defence (MOD), British forces are enganged 
+in many operational missions around the globe, including in Cyprus and South Sudan, military training and planning with Nigeria as
+the nation fights Boko Haram. The British also maintain a traning regiment in Ukraine, which has been fighting Russian backed 
+separatists.</P>
+<p>In addidtion to these combat rolls, The United Kingdom maintains a carrier strike group at the Indo-Pacific as a show of force and 
+to combat Chinas'growing influence in the region. The armed forces also engage in traning and support missions in several nations that
+are at war including: Yemen and Somalia. It is widley speculated that the SAS and SBS are engaged in covert and not-publicised 
+operations against Jihadist forces in various nations.</P>
+<img src="img/Our Military Today 6.jpg" width="40%" height="40%" title="British Carrier Strike Group in the Indo-Pacific">
+
+</td>
+</tr>
+</table>
+
+<hr>
+<footer>
+Coppyright &copy; British Military.org 2021
+</footer>
+
+
+</body>
+
+

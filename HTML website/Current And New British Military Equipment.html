@@ -1,0 +1,176 @@
+
+<!DOCTYPE html>
+<head><title>Current and New Equipment</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/logo.jpg" alt="British Military- A mordern Overview Of The British Army And Their History" title="British Military- A Mordern Overview Of The British Army And Their History">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="Our Military Today.html">Our Military Today</a></td>
+<td><a href="Global Firepower Index.html">Gobal Firepower Index</a></td>
+<td><a href="British Military History.html">British Military History</a></td>
+<td><a href="Current and New British Military Equipment.html">Current And New British Military Equipment</a></td>
+<td><a href="The future Of The british Military.html">The Future Of The British Military</a></td>
+</tr>
+</nav>
+</table>
+<hr>
+<h2>What are the examples of Military Equipment do the British Army, Navy and Airforce Have?</h2>
+
+ <title>Registration Page</title>
+<p> Please register and fill in the required data before acssessing the information</p>
+   
+
+	<?php 
+session_start();
+
+	include("connection.php");
+	include("functions.php");
+
+	$user_data = check_login($con);
+
+?>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register now</title>
+</head>
+<body>
+
+	<a href="index.html">Logout</a>
+	<h1>Register now</h1>
+
+ <?php echo $user_data['user_name']; ?>
+
+
+
+<?php 
+
+session_start();
+
+	include("connection.php");
+	include("functions.php");
+
+
+	if($_SERVER['REQUEST_METHOD'] == "POST")
+	{
+		//something was posted
+		$user_name = $_POST['user_name'];
+		$password = $_POST['password'];
+
+		if(!empty($user_name) && !empty($password) && !is_numeric($user_name))
+		{
+
+			//read from database
+			$query = "select * from users where user_name = '$user_name' limit 1";
+			$result = mysqli_query($con, $query);
+
+			if($result)
+			{
+				if($result && mysqli_num_rows($result) > 0)
+				{
+
+					$user_data = mysqli_fetch_assoc($result);
+					
+					if($user_data['password'] === $password)
+					{
+
+						$_SESSION['user_id'] = $user_data['user_id'];
+						header("login.html");
+						die;
+					}
+				}
+			}
+			
+			echo "wrong username or password!";
+		}else
+		{
+			echo "wrong username or password!";
+		}
+	}
+
+?>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>signup</title>
+</head>
+<body>
+
+	<style type="text/css">
+	
+	#text{
+
+		height: 25px;
+		border-radius: 5px;
+		padding: 4px;
+		border: solid thin #aaa;
+		width: 100%;
+	}
+
+	#button{
+
+		padding: 10px;
+		width: 100px;
+		color: white;
+		background-color: lightblue;
+		border: none;
+	}
+
+	#box{
+
+		background-color: grey;
+		margin: auto;
+		width: 300px;
+		padding: 20px;
+	}
+
+	</style>
+
+	<div id="box">
+		
+		<form method="post">
+			<div style="font-size: 20px;margin: 10px;color: white;">Login</div>
+
+			<td>Username</td><input id="text" type="text" name="user_name"><br><br>
+			<td>Password</td><input id="text" type="password" name="password"><br><br>
+
+			<input value="login" type="submit" value="Login" href="https://en.wikipedia.org/wiki/List_of_equipment_of_the_British_Army"><br><br>
+
+			<a href="login.html">not a member?</a><br><br>
+		</form>
+	</div>
+</body>
+</html>
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<footer>
+Coppyright &copy; British Military.org 2021
+</footer>
+</body>
